@@ -27,8 +27,8 @@ module.exports.homelist = function(req, res){
             {
                 nome:'Burger Queen',
                 address:'125 High Street, Reading, RG6 1PS',
-                rating:'1',
-                facilities:['Hot drinks', 'Premium WIFI'],
+                rating:'5',
+                facilities:['Hot drinks', 'Premium WIFI', 'dIMAS TA AQUI'],
                 distance:'250m'
             }
         ],
